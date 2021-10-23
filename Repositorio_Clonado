@@ -1,0 +1,4 @@
+cd /code/mine/
+➜  ~/code/mine git clone https://github.com/alfredocambera/curso-devsecops/
+➜  ~/code/mine cd curso-devsecops
+➜  ~/code/mine/curso-devsecops git:(main) ls -l
